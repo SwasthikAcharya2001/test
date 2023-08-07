@@ -12,6 +12,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("HEllo world");
             Console.WriteLine("2nd line");
+            Console.WriteLine("3rd line");
         }
     }
 }
